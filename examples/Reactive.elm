@@ -1,4 +1,3 @@
-import Html exposing (div)
 import Graphics.Element exposing (show)
 import Window exposing (dimensions)
 
