@@ -1,5 +1,7 @@
 # Flex layout resolver and renderer for Elm
 
+[Example](http://fudini.github.io/elm/layout.html)
+
 ## Example layout resolving and rendering:
 
 ```elm
